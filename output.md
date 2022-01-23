@@ -1,6 +1,8 @@
-Touches mortes en AltGr simple appui
+<details>
+<summary>Touches mortes en AltGr simple appui</summary>
+ <p>    </p>
 <details> 
-  <summary>Touche morte : è</summary> 
+  <summary>Touche morte : <b>è</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -50,7 +52,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : é</summary> 
+  <summary>Touche morte : <b>é</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -100,7 +102,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : n</summary> 
+  <summary>Touche morte : <b>n</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -150,7 +152,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : m</summary> 
+  <summary>Touche morte : <b>m</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -200,7 +202,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : r</summary> 
+  <summary>Touche morte : <b>r</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -250,7 +252,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : I</summary> 
+  <summary>Touche morte : <b>I</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -300,7 +302,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : i</summary> 
+  <summary>Touche morte : <b>i</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -350,7 +352,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : ?</summary> 
+  <summary>Touche morte : <b>?</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -400,7 +402,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : q</summary> 
+  <summary>Touche morte : <b>q</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -450,7 +452,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : v</summary> 
+  <summary>Touche morte : <b>v</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -500,7 +502,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : Q</summary> 
+  <summary>Touche morte : <b>Q</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -550,7 +552,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : h</summary> 
+  <summary>Touche morte : <b>h</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -600,7 +602,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : ;</summary> 
+  <summary>Touche morte : <b>;</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -650,7 +652,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : c</summary> 
+  <summary>Touche morte : <b>c</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -700,7 +702,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : f</summary> 
+  <summary>Touche morte : <b>f</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -750,7 +752,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : z</summary> 
+  <summary>Touche morte : <b>z</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -800,7 +802,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : l</summary> 
+  <summary>Touche morte : <b>l</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -850,7 +852,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : E</summary> 
+  <summary>Touche morte : <b>E</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -900,7 +902,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : g</summary> 
+  <summary>Touche morte : <b>g</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -950,7 +952,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : t</summary> 
+  <summary>Touche morte : <b>t</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1000,7 +1002,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : s</summary> 
+  <summary>Touche morte : <b>s</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1050,7 +1052,7 @@ Touches mortes en AltGr simple appui
 </details> 
  
 <details> 
-  <summary>Touche morte : d</summary> 
+  <summary>Touche morte : <b>d</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1099,9 +1101,13 @@ Touches mortes en AltGr simple appui
 | ê | ∞ê | ∞Ê | ∉ | ⃗ | 
 </details> 
  
-Touches mortes en AltGr double appui
+</details> 
+ 
+<details>
+<summary>Touches mortes en AltGr double appui</summary>
+ <p>    </p>
 <details> 
-  <summary>Touche morte : 2x é</summary> 
+  <summary>Touche morte : <b>2x é</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1151,7 +1157,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x è</summary> 
+  <summary>Touche morte : <b>2x è</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1201,7 +1207,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x r</summary> 
+  <summary>Touche morte : <b>2x r</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1251,7 +1257,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x i</summary> 
+  <summary>Touche morte : <b>2x i</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1301,7 +1307,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x q</summary> 
+  <summary>Touche morte : <b>2x q</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1351,7 +1357,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x m</summary> 
+  <summary>Touche morte : <b>2x m</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1401,7 +1407,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x n</summary> 
+  <summary>Touche morte : <b>2x n</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1451,7 +1457,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x ?</summary> 
+  <summary>Touche morte : <b>2x ?</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1501,7 +1507,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x t</summary> 
+  <summary>Touche morte : <b>2x t</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1551,7 +1557,7 @@ Touches mortes en AltGr double appui
 </details> 
  
 <details> 
-  <summary>Touche morte : 2x z</summary> 
+  <summary>Touche morte : <b>2x z</b></summary> 
  
 | Touche | Normal | Shift | AltGr | AltGrShift | 
 | --- |  --- | --- | --- | --- |
@@ -1598,5 +1604,7 @@ Touches mortes en AltGr double appui
 | h | ⱡh | ⱡH | ⱡ̣ | ⱡ‡ | 
 | f | ⱡf | ⱡF | ⱡ˛ | ⱡ⛄ | 
 | ê | ⱡê | ⱡÊ | ⱡ/ | ⱡ^ | 
+</details> 
+ 
 </details> 
  
